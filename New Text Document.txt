@@ -1,3 +1,6 @@
-﻿Thử thay đổi trên github
+Thử thay đổi trên github
 Thêm dòng vào dưới máy tính
+<<<<<<< HEAD
 Đồng bộ mâu thuẫn khi chỉnh sửa cả hai nơi
+=======
+>>>>>>> parent of 77f16bc... Sửa đồng thời ở 2 nơi
