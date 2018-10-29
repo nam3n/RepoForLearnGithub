@@ -1,2 +1,3 @@
-Thử thay đổi trên github
+﻿Thử thay đổi trên github
 Thêm dòng vào dưới máy tính
+Sửa trên máy tính, động bộ trước commit
